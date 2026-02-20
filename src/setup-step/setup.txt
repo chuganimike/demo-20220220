@@ -1,0 +1,7 @@
+1. install Node Js
+2. run "npm install"
+3. run "npm start"
+4. the url will be http://localhost:3000
+
+Thank you
+---------
