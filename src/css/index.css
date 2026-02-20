@@ -1,0 +1,131 @@
+
+.background-image{
+  background-color: ghostwhite;
+  background-size: cover;
+ }
+
+
+.login-image{
+  background-color: white;
+  background-size: cover;
+}
+
+.linkLabel {
+  cursor: pointer;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.loginHeading {
+  font-family: "Calibri";
+}
+
+.poppup-modal {
+  width: 50%;    /* Occupy the 90% of the screen width */
+  max-width: 50%;
+}
+
+.modal-body {
+  display: block;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.top-buffer {
+  margin-top:-40px; }
+
+
+.label-space {
+  padding-left: 50px;
+  /*padding-right: 40px;*/
+}
+
+.input-space {
+  padding-left: 0px;
+}
+
+.parent {
+  position: inherit;
+  align-content: center;
+  /*color: black;*/
+
+}
+
+.textOntop{
+  position: relative;
+  display: inherit;
+  z-index:100;
+}
+
+.loadingOntop{
+   position: fixed;
+   margin-left: 60px;
+  margin-top: 4px;
+ }
+
+
+.loadingOnLogin{
+  position: fixed;
+  margin-left: 170px;
+  margin-top: 4px;
+}
+
+.badge-left {
+  position: absolute;
+  margin-right: 60%;
+}
+
+.hidden { display:none; }
+
+.show { display:block; }
+
+.close-wait {
+  font-weight: inherit;
+  color: whitesmoke;
+  font-size: small;
+}
+
+.bootstrap-button {
+  width: 175px;
+  height: 40px;
+}
+
+.cardBodyLogin {
+  /*background-color: white;*/
+  border-radius: 10px;
+  max-width: 500px;
+}
+
+.toast-center {
+  /*align-content: center;*/
+  text-align: center;
+  margin-top: 50px;
+}
+
+.menu-Toolbar {
+  margin-left: 40px;
+  /*align-self: flex-start;*/
+}
+
+.menu-ToolbarInit {
+  margin-left: 65px;
+  /*align-self: flex-start;*/
+}
+
+
+
+
+
+
